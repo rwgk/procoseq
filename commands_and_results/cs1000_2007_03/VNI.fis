@@ -1,0 +1,15 @@
+Title Code VNI
+SpaceGroup P42/ncm:2
+UnitCell 10.002 10.002 34.141 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 60
+NodeType  4  7
+CheckTetrahedralGeometry Off
+SI1   0.09850  0.70290  0.90320
+SI2   0.04550  0.04550  0.45690
+SI3   0.09460  0.09460  0.27230
+SI4   0.10840  0.10840  0.74580
+SI5   0.95540  0.95540  0.33610
+SI6   0.14540  0.14540  0.06500
+SI7   0.25000  0.25000  0.49040
+End

@@ -1,0 +1,9 @@
+Title Code RWY
+SpaceGroup Im-3m
+UnitCell 18.5017 18.5017 18.5017 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 48
+NodeType  4  1
+CheckTetrahedralGeometry Off
+SI1   0.57650  0.69810  0.00000
+End

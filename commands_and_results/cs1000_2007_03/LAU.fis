@@ -1,0 +1,11 @@
+Title Code LAU
+SpaceGroup C12/m1
+UnitCell 14.587 12.877 7.613 90 111.159 90
+MinNodeDistance 2.7
+MinSymNodes 24
+NodeType  4  3
+CheckTetrahedralGeometry Off
+SI1   0.26460  0.38130  0.34780
+SI2   0.36880  0.30960  0.75760
+SI3   0.42100  0.37980  0.16600
+End

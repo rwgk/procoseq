@@ -1,0 +1,133 @@
+# format  last modified Feb 28 1996
+
+# Maple procedure "format" that makes a table entry from a list and an integer
+
+# Memo to other users:  edit this and replace "njas"
+#	by your name and email address
+#	Preferred format for this is 
+#	Mary Smith (ms@math.univ.edu)
+#	using parens () not pointies <> because the latter
+#	cause trouble with html
+
+# Examples:  (Call this file "format")
+#	 $ maple
+#	 > read format;
+#	 > seq1:=[1,2,4,8,16,32,64];
+#	 > format(seq1,8787);
+#	 > seq2:=[seq(2^n,n=0..50)];
+#	 > format(seq2,8788);
+#	 # It handles signed sequences correctly:
+#	 > seq3:=[seq( (-1)^n*2^n,n=0..50) ]; 
+#	 > format(seq3,8789);
+#	 > quit
+
+format:=proc(s,n)
+local maxn,i,aa,nn,chaineS,chaineT,offset,flg,chaineA,chaineR,chaineO,chaineU,pn,pa,pr,pi,po,ps,pt,pu,pv,pw,px,pk,pp,pd,blanc,chaineV,chaineW,chaineX,ls,lt,lu,lv,lw,lx,sig,chaineK,t1;
+t1:=1000000000+n;
+maxn:=64;
+flg:=0;
+pn:=`%N `;
+pa:=`%A `;
+pr:=`%R `;
+pi:=`%I `;
+po:=`%O `;
+ps:=`%S `;
+pt:=`%T `;
+pu:=`%U `;
+pv:=`%V `;
+pw:=`%W `;
+px:=`%X `;
+pk:=`%K `;
+pp:=`%p `;
+pd:=`%D `;
+pnum:=convert(t1,string);
+pnum:=substring(pnum,5..10);
+pnum:=cat(`A`,pnum);
+aa:=s;
+nn:=nops(aa);
+blanc:=` `;
+chaineS:=` `;
+chaineT:=` `;
+chaineU:=` `;
+chaineV:=` `;
+chaineW:=` `;
+chaineX:=` `;
+chaineA:=cat(pa,pnum,blanc,`rwgk@laplace.csb.yale.edu (Ralf W. Grosse-Kunstleve)`);
+chaineR:=cat(pr,pnum);
+chaineI:=cat(pi,pnum);
+chaineN:=cat(pn,pnum);
+chaineK:=cat(pk,pnum);
+chainep:=cat(pp,pnum);
+chaineD:=cat(pd,pnum);
+i:=1;
+chaineS:=cat(ps,pnum,blanc,abs(op(i,aa)));
+chaineV:=cat(pv,pnum,blanc,    op(i,aa) );
+if i<nn then chaineS:=cat(chaineS,`,`) fi;
+if i<nn then chaineV:=cat(chaineV,`,`) fi;
+if abs(op(i,aa)) > 1 and flg=0 then offset:=i:flg:=1 fi;
+chaineT:=cat(pt,pnum,blanc);
+chaineU:=cat(pu,pnum,blanc);
+chaineW:=cat(pw,pnum,blanc);
+chaineX:=cat(px,pnum,blanc);
+while length(chaineS) <= maxn and i<nn do
+      i:=i+1;
+      chaineS:=cat(chaineS,abs(op(i,aa)),`,`);
+      chaineV:=cat(chaineV,    op(i,aa) ,`,`);
+      if abs(op(i,aa)) > 1 and flg=0 then offset:=i:flg:=1 fi;
+od;
+
+while  i < nn and length(chaineT) <= maxn do
+       i:=i+1;
+       chaineT:=cat(chaineT,abs(op(i,aa)),`,`);
+       chaineW:=cat(chaineW,    op(i,aa) ,`,`);
+od;
+
+while  i < nn and length(chaineU) <= maxn do
+       i:=i+1;
+       chaineU:=cat(chaineU,abs(op(i,aa)),`,`);
+       chaineX:=cat(chaineX,    op(i,aa) ,`,`);
+od;
+
+poo:=cat(` 0,`,convert(offset,string));
+chaineO:=cat(po,pnum,poo);
+
+ls:=length(chaineS);
+lt:=length(chaineT);
+lu:=length(chaineU);
+lv:=length(chaineV);
+lw:=length(chaineW);
+lx:=length(chaineX);
+if lt = 11 then
+        chaineS:=substring(chaineS,1..ls-1);
+        chaineV:=substring(chaineV,1..lv-1);
+        fi;
+if lu = 11 then
+        chaineT:=substring(chaineT,1..lt-1);
+        chaineW:=substring(chaineW,1..lw-1);
+        fi;
+chaineU:=substring(chaineU,1..lu-1);
+chaineX:=substring(chaineX,1..lx-1);
+
+sig:=1:
+for i from 1 to nn do if op(i,aa)<0 then sig:=-1: fi: od:
+lprint(chaineI);
+lprint(chaineS);
+if lt>11 then lprint(chaineT); fi:
+if lu>11 then lprint(chaineU); fi:
+
+if sig<0 then
+        lprint(chaineV);
+        if lt>11 then lprint(chaineW); fi:
+        if lu>11 then lprint(chaineX); fi:
+        chaineK:=cat(chaineK,blanc,`sign,done`):
+else
+        chaineK:=cat(chaineK,blanc,`nonn`):
+fi:
+lprint(chaineN);
+lprint(chaineR);
+lprint(chaineO);
+lprint(chaineK);
+lprint(chaineA);
+lprint(chaineD);
+lprint(chainep);
+end:

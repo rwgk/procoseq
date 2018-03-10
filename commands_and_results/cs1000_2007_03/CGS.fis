@@ -1,0 +1,12 @@
+Title Code CGS
+SpaceGroup Pnma
+UnitCell 8.444 14.083 15.929 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 32
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.82450  0.14170  0.15960
+SI2   0.55580  0.35890  0.03290
+SI3   0.11280  0.46950  0.22120
+SI4   0.41040  0.97340  0.12960
+End

@@ -1,0 +1,10 @@
+Title Code ERI
+SpaceGroup P63/mmc
+UnitCell 13.054 13.054 15.175 90 90 120
+MinNodeDistance 2.7
+MinSymNodes 36
+NodeType  4  2
+CheckTetrahedralGeometry Off
+SI1   0.00060  0.23450  0.10140
+SI2   0.09610  0.42610  0.25000
+End

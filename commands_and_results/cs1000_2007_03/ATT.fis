@@ -1,0 +1,10 @@
+Title Code ATT
+SpaceGroup Pmma
+UnitCell 9.98 7.514 9.369 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 12
+NodeType  4  2
+CheckTetrahedralGeometry Off
+SI1   0.09570  0.20570  0.37150
+SI2   0.09570  0.50000  0.13800
+End

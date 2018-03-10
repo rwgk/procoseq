@@ -1,0 +1,13 @@
+Title Code CHI
+SpaceGroup Pbcn
+UnitCell 5.01 31.234 9.012 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 28
+NodeType  3  1
+NodeType  4  3
+CheckTetrahedralGeometry Off
+SI1   0.94190  0.76860  0.92070
+SI2   0.24230  0.13860  0.14790
+SI3   0.41850  0.05470  0.00980
+SI4   0.50000  0.99620  0.25000
+End

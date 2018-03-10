@@ -1,0 +1,12 @@
+Title Code IFR
+SpaceGroup C12/m1
+UnitCell 18.628 13.436 7.629 90 102.322 90
+MinNodeDistance 2.7
+MinSymNodes 32
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.83750  0.70300  0.73510
+SI2   0.98590  0.61410  0.69280
+SI3   0.14880  0.61430  0.89810
+SI4   0.75530  0.61460  0.38050
+End

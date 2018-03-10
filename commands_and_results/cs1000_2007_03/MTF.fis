@@ -1,0 +1,14 @@
+Title Code MTF
+SpaceGroup C12/m1
+UnitCell 9.629 30.394 7.249 90 90.45 90
+MinNodeDistance 2.7
+MinSymNodes 44
+NodeType  4  6
+CheckTetrahedralGeometry Off
+SI1   0.12200  0.05030  0.86780
+SI2   0.17670  0.15720  0.31230
+SI3   0.15900  0.37600  0.04330
+SI4   0.19180  0.29850  0.33790
+SI5   0.97850  0.23390  0.21040
+SI6   0.00000  0.08330  0.50000
+End

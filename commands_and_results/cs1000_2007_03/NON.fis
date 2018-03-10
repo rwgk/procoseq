@@ -1,0 +1,13 @@
+Title Code NON
+SpaceGroup Fmmm
+UnitCell 22.862 15.656 13.935 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 88
+NodeType  4  5
+CheckTetrahedralGeometry Off
+SI1   0.37570  0.16250  0.31030
+SI2   0.29690  0.32640  0.00000
+SI3   0.50000  0.10180  0.61270
+SI4   0.31620  0.50000  0.28920
+SI5   0.27780  0.50000  0.50000
+End

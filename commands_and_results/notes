@@ -1,0 +1,25 @@
+TODO: p0011 (FRA, GON, OSO) -> EIS
+
+http://www.iza-structure.org/databases
+
+p9906/atlas and p0003/atlas submitted to EIS 08/25/2000:
+
+cd /net/cci/rwgk/iza/p9906/atlas
+../../mk_eis 57304 *.cs0100 > ../../z-eis
+cd /net/cci/rwgk/iza/p0003/atlas
+../../mk_eis 57310 *.cs0100 >> ../../z-eis
+cd ../..
+grep '%[SN]' z-eis | cut -d',' -f-11 > z-cmp
+grep '%S' z-cmp | cut -d' ' -f3 | tr ',' ' ' | cut -d' ' -f2- > zc
+# Copy-and-paste CS from iza-structure web site to z-web
+cut -d' ' -f2-11 z-web > zw
+diff zw zc # no differences!
+
+
+Frameworks that required rcs -3Dai:
+          LCM of period lenghts
+  ESV          13693680
+  STT     4658179125600
+  SSZ-58      286322400
+  IM-12       116396280 (same as UTL)
+  EON           5155920

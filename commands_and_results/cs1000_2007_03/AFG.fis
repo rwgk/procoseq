@@ -1,0 +1,11 @@
+Title Code AFG
+SpaceGroup P63/mmc
+UnitCell 12.548 12.548 20.789 90 90 120
+MinNodeDistance 2.7
+MinSymNodes 48
+NodeType  4  3
+CheckTetrahedralGeometry Off
+SI1   0.58170  0.67060  0.12540
+SI2   0.24660  0.99650  0.25000
+SI3   0.24780  0.00000  0.00000
+End

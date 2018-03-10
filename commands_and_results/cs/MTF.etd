@@ -1,0 +1,30 @@
+# MTF T1 (Zeo-Atlas MTF T1): Auto_k_max 4 + 4 * 32760 + 9 = 131053 (131053)
+# malloc(1048432)
+# O(IT) = 108 O(PL) = 10 S(pl) = 104 TD10 = 1086 MTF T1 (Zeo-Atlas MTF T1) { 1 32760 }
+# 3Dai{0 21 235} a{24499519/8668296} MTF T1 (Zeo-Atlas MTF T1) (a,b,c)
+# MTF T1 (Zeo-Atlas MTF T1) (a,b,c): P{4 32760 32770} <a>=24499519/8668296 P(a)=21
+# MTF T2 (Zeo-Atlas MTF T2): Auto_k_max 10 + 4 * 32760 + 9 = 131059 (131059)
+# malloc(1048480)
+# O(IT) = 114 O(PL) = 10 S(pl) = 104 TD10 = 1072 MTF T2 (Zeo-Atlas MTF T2) { 1 32760 }
+# 3Dai{0 21 235} a{24499519/8668296} MTF T2 (Zeo-Atlas MTF T2) (a,b,c)
+# MTF T2 (Zeo-Atlas MTF T2) (a,b,c): P{10 32760 32770} <a>=24499519/8668296 P(a)=21
+# MTF T3 (Zeo-Atlas MTF T3): Auto_k_max 3 + 4 * 32760 + 9 = 131052 (131052)
+# malloc(1048424)
+# O(IT) = 97 O(PL) = 9 S(pl) = 94 TD10 = 1093 MTF T3 (Zeo-Atlas MTF T3) { 1 32760 }
+# 3Dai{0 21 235} a{24499519/8668296} MTF T3 (Zeo-Atlas MTF T3) (a,b,c)
+# MTF T3 (Zeo-Atlas MTF T3) (a,b,c): P{3 32760 32770} <a>=24499519/8668296 P(a)=21
+# MTF T4 (Zeo-Atlas MTF T4): Auto_k_max 11 + 4 * 32760 + 9 = 131060 (131060)
+# malloc(1048488)
+# O(IT) = 115 O(PL) = 10 S(pl) = 104 TD10 = 1088 MTF T4 (Zeo-Atlas MTF T4) { 1 32760 }
+# 3Dai{0 21 235} a{24499519/8668296} MTF T4 (Zeo-Atlas MTF T4) (a,b,c)
+# MTF T4 (Zeo-Atlas MTF T4) (a,b,c): P{11 32760 32770} <a>=24499519/8668296 P(a)=21
+# MTF T5 (Zeo-Atlas MTF T5): Auto_k_max 9 + 4 * 32760 + 9 = 131058 (131058)
+# malloc(1048472)
+# O(IT) = 113 O(PL) = 10 S(pl) = 104 TD10 = 1076 MTF T5 (Zeo-Atlas MTF T5) { 1 32760 }
+# 3Dai{0 21 235} a{24499519/8668296} MTF T5 (Zeo-Atlas MTF T5) (a,b,c)
+# MTF T5 (Zeo-Atlas MTF T5) (a,b,c): P{9 32760 32770} <a>=24499519/8668296 P(a)=21
+# MTF T6 (Zeo-Atlas MTF T6): Auto_k_max 3 + 4 * 16380 + 9 = 65532 (65532)
+# malloc(524264)
+# O(IT) = 103 O(PL) = 10 S(pl) = 100 TD10 = 1082 MTF T6 (Zeo-Atlas MTF T6) { 1 16380 }
+# 3Dai{0 21 235} a{24499519/8668296} MTF T6 (Zeo-Atlas MTF T6) (a,b,c)
+# MTF T6 (Zeo-Atlas MTF T6) (a,b,c): P{3 16380 16390} <a>=24499519/8668296 P(a)=21

@@ -1,0 +1,10 @@
+Title Code OSO
+SpaceGroup P6222
+UnitCell 10.101 10.101 7.647 90 90 120
+MinNodeDistance 2.7
+MinSymNodes 9
+NodeType  4  2
+CheckTetrahedralGeometry Off
+SI1   0.28655  0.57310  0.00000
+SI2   0.00000  0.50000  0.16667
+End

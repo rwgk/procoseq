@@ -1,0 +1,12 @@
+Title Code STI
+SpaceGroup Fmmm
+UnitCell 13.502 17.802 17.942 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 72
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.11520  0.12250  0.19530
+SI2   0.19780  0.00000  0.08900
+SI3   0.11340  0.00000  0.31900
+SI4   0.25000  0.25000  0.25000
+End

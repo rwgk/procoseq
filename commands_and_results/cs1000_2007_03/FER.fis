@@ -1,0 +1,12 @@
+Title Code FER
+SpaceGroup Immm
+UnitCell 19.018 14.303 7.541 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 36
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.32440  0.20180  0.20640
+SI2   0.08430  0.20040  0.00000
+SI3   0.27430  0.00000  0.29350
+SI4   0.15530  0.00000  0.00000
+End

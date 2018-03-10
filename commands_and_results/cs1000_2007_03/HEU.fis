@@ -1,0 +1,13 @@
+Title Code HEU
+SpaceGroup C12/m1
+UnitCell 17.523 17.644 7.401 90 116.104 90
+MinNodeDistance 2.7
+MinSymNodes 36
+NodeType  4  5
+CheckTetrahedralGeometry Off
+SI1   0.18090  0.16860  0.10540
+SI2   0.21400  0.41070  0.49880
+SI3   0.20530  0.18930  0.71550
+SI4   0.06410  0.29810  0.41280
+SI5   0.00000  0.21510  0.00000
+End

@@ -1,0 +1,9 @@
+Title Code GIS
+SpaceGroup I41/amd:2
+UnitCell 9.801 9.801 10.158 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 16
+NodeType  4  1
+CheckTetrahedralGeometry Off
+SI1   0.15860  0.59140  0.12500
+End

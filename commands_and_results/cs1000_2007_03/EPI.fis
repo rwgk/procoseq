@@ -1,0 +1,11 @@
+Title Code EPI
+SpaceGroup C12/m1
+UnitCell 9.127 17.48 10.377 90 124.939 90
+MinNodeDistance 2.7
+MinSymNodes 24
+NodeType  4  3
+CheckTetrahedralGeometry Off
+SI1   0.00490  0.09000  0.15410
+SI2   0.29760  0.20870  0.38990
+SI3   0.71070  0.19250  0.09770
+End

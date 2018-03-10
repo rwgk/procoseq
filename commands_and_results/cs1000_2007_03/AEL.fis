@@ -1,0 +1,11 @@
+Title Code AEL
+SpaceGroup Imma
+UnitCell 8.312 18.729 13.392 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 40
+NodeType  4  3
+CheckTetrahedralGeometry Off
+SI1   0.81380  0.03960  0.14060
+SI2   0.31410  0.09860  0.94080
+SI3   0.80680  0.25000  0.86470
+End

@@ -1,0 +1,13 @@
+Title Code RUT
+SpaceGroup C12/m1
+UnitCell 13.224 13.286 12.454 90 114.842 90
+MinNodeDistance 2.7
+MinSymNodes 36
+NodeType  4  5
+CheckTetrahedralGeometry Off
+SI1   0.27660  0.11830  0.11640
+SI2   0.29510  0.11470  0.37080
+SI3   0.05200  0.11630  0.32060
+SI4   0.93280  0.22280  0.07430
+SI5   0.00000  0.24320  0.50000
+End

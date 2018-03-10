@@ -1,0 +1,10 @@
+Title Code AFY
+SpaceGroup P-31m
+UnitCell 12.33 12.33 8.603 90 90 120
+MinNodeDistance 2.7
+MinSymNodes 16
+NodeType  4  2
+CheckTetrahedralGeometry Off
+SI1   0.32510  0.86410  0.39520
+SI2   0.66667  0.33333  0.18680
+End

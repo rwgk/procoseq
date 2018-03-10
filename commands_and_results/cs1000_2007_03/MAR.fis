@@ -1,0 +1,12 @@
+Title Code MAR
+SpaceGroup P63/mmc
+UnitCell 12.3923 12.3923 30.7161 90 90 120
+MinNodeDistance 2.7
+MinSymNodes 72
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.91560  0.58370  0.08690
+SI2   0.58760  0.66470  0.17180
+SI3   0.91630  0.58630  0.25000
+SI4   0.24940  0.00000  0.00000
+End

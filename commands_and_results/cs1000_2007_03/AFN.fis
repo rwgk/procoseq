@@ -1,0 +1,12 @@
+Title Code AFN
+SpaceGroup C12/m1
+UnitCell 14.02 13.466 10.202 90 107.239 90
+MinNodeDistance 2.7
+MinSymNodes 32
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.51130  0.24070  0.15490
+SI2   0.73180  0.79360  0.20140
+SI3   0.32460  0.88400  0.09510
+SI4   0.56960  0.38180  0.65290
+End

@@ -1,0 +1,11 @@
+Title Code AFT
+SpaceGroup P63/mmc
+UnitCell 13.691 13.691 29.449 90 90 120
+MinNodeDistance 2.7
+MinSymNodes 72
+NodeType  4  3
+CheckTetrahedralGeometry Off
+SI1   0.22570  0.99980  0.19740
+SI2   0.33390  0.44090  0.46970
+SI3   0.44130  0.33320  0.63610
+End

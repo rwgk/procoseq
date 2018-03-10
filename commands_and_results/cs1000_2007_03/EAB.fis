@@ -1,0 +1,10 @@
+Title Code EAB
+SpaceGroup P63/mmc
+UnitCell 13.178 13.178 15.005 90 90 120
+MinNodeDistance 2.7
+MinSymNodes 36
+NodeType  4  2
+CheckTetrahedralGeometry Off
+SI1   0.43450  0.10100  0.14740
+SI2   0.23930  0.00000  0.00000
+End

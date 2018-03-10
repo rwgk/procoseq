@@ -1,0 +1,12 @@
+Title Code SZR
+SpaceGroup Cmmm
+UnitCell 18.8696 14.4008 7.514 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 36
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.08220  0.19710  0.29250
+SI2   0.17300  0.29770  0.00000
+SI3   0.14880  0.00000  0.29250
+SI4   0.26920  0.00000  0.00000
+End

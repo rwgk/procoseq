@@ -1,0 +1,15 @@
+Title Code MEL
+SpaceGroup I-4m2
+UnitCell 20.27 20.27 13.459 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 96
+NodeType  4  7
+CheckTetrahedralGeometry Off
+SI1   0.12030  0.18580  0.15360
+SI2   0.07680  0.22920  0.36180
+SI3   0.27790  0.18570  0.14390
+SI4   0.30630  0.07600  0.98400
+SI5   0.07560  0.37990  0.35440
+SI6   0.07620  0.07620  0.00000
+SI7   0.19300  0.19300  0.50000
+End

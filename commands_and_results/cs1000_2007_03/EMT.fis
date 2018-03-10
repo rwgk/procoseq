@@ -1,0 +1,12 @@
+Title Code EMT
+SpaceGroup P63/mmc
+UnitCell 17.215 17.215 28.082 90 90 120
+MinNodeDistance 2.7
+MinSymNodes 96
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.03670  0.42960  0.10750
+SI2   0.09640  0.37010  0.01790
+SI3   0.15560  0.48840  0.92920
+SI4   0.15500  0.48850  0.19570
+End

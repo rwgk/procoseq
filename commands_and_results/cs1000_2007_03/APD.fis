@@ -1,0 +1,10 @@
+Title Code APD
+SpaceGroup Cmca
+UnitCell 8.724 20.06 10.166 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 32
+NodeType  4  2
+CheckTetrahedralGeometry Off
+SI1   0.18150  0.05520  0.88860
+SI2   0.31600  0.19860  0.89270
+End

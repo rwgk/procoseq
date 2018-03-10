@@ -1,0 +1,12 @@
+Title Code SIV
+SpaceGroup Cmcm
+UnitCell 9.8768 14.0754 28.1314 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 64
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.15630  0.13240  0.36620
+SI2   0.65610  0.00460  0.30470
+SI3   0.84350  0.97840  0.44590
+SI4   0.34340  0.85060  0.38390
+End

@@ -1,0 +1,12 @@
+Title Code TON
+SpaceGroup Cmcm
+UnitCell 14.105 17.842 5.256 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 24
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.29630  0.04850  0.25000
+SI2   0.20660  0.21110  0.25000
+SI3   0.00000  0.27310  0.25000
+SI4   0.50000  0.12290  0.25000
+End

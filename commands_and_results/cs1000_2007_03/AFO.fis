@@ -1,0 +1,12 @@
+Title Code AFO
+SpaceGroup Cmcm
+UnitCell 9.764 25.614 8.327 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 40
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.20400  0.35670  0.06140
+SI2   0.50000  0.05990  0.05720
+SI3   0.50000  0.22500  0.06810
+SI4   0.00000  0.16360  0.06470
+End

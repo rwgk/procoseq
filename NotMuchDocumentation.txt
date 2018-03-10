@@ -1,0 +1,26 @@
+Where are the interesting results?
+  commands_and_results/cs1000_2007_03
+
+How were they generated?
+  commands_and_results/cs/notes
+
+Where is the focus source code?
+  rwgk original version
+    TODO
+  stefsmeets forked version (newer)
+    https://github.com/stefsmeets/focus_package
+
+
+From an email dated Fri, Jan 29, 1999 at 11:31 AM
+
+What you want to look at is the procedure iFindPeriod2() in the file
+fperiod.c. This procedure does true fractional arithmetic. Therefore
+it is a bit convoluted. The procedure FindPeriod2() in the same file
+does floating point computations and converts the floats to fractions.
+Of course, this is prone to round-off errors and iFindPeriod2() should
+be preferred, but FindPeriod2() is probably easier to understand.
+
+The idea behind FindPeriod2() is fairly simple and after looking at the
+old source code again I am not sure if the source code is actually helpful.
+An important trick is to start searching for periods from the end, because
+some of the first terms can be special.

@@ -1,0 +1,12 @@
+Title Code CDO
+SpaceGroup Cmcm
+UnitCell 7.5566 18.7151 14.0986 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 36
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.29410  0.17580  0.05160
+SI2   0.20480  0.24150  0.25000
+SI3   0.00000  0.07950  0.54290
+SI4   0.00000  0.86260  0.25000
+End

@@ -1,0 +1,10 @@
+Title Code AWW
+SpaceGroup P4/nmm:2
+UnitCell 13.634 13.634 7.627 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 24
+NodeType  4  2
+CheckTetrahedralGeometry Off
+SI1   0.47420  0.86480  0.85600
+SI2   0.13730  0.86270  0.50000
+End

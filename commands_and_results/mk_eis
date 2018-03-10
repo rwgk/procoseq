@@ -1,0 +1,27 @@
+#! /bin/csh -f
+
+if ($#argv > 0) then
+  set i=$1
+  shift
+  if ($i < 1) then
+    echo 'Error: EIS number must be greater than 0.'
+    exit 1
+  endif
+else
+  echo 'usage: '"$0"' eis_number *.cs0100'
+  exit 1
+endif
+
+onintr CLEAN
+
+foreach f ($*)
+  set code=$f:r
+  section $f coseq | procoseq -$code -EoIS=$i | tee job$$ | grep -v "^# NEXT "
+  set i=`grep "^# NEXT " job$$ | cut -f3 -d" "`
+end
+
+CLEAN:
+
+rm -f job$$
+
+exit 0

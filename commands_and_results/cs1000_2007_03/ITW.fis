@@ -1,0 +1,11 @@
+Title Code ITW
+SpaceGroup C12/m1
+UnitCell 10.4496 15.0277 8.9537 90 105.64 90
+MinNodeDistance 2.7
+MinSymNodes 24
+NodeType  4  3
+CheckTetrahedralGeometry Off
+SI1   0.35160  0.24450  0.89390
+SI2   0.30670  0.39790  0.33170
+SI3   0.40390  0.39790  0.68630
+End

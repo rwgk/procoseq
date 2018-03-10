@@ -1,0 +1,12 @@
+Title Code DAC
+SpaceGroup C12/m1
+UnitCell 18.574 7.542 10.377 90 108.917 90
+MinNodeDistance 2.7
+MinSymNodes 24
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.21330  0.29350  0.84040
+SI2   0.18940  0.29380  0.35330
+SI3   0.09870  0.00000  0.69400
+SI4   0.08190  0.00000  0.38210
+End

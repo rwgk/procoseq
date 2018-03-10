@@ -1,0 +1,14 @@
+Title Code ESV
+SpaceGroup Pnma
+UnitCell 9.686 12.226 22.836 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 48
+NodeType  4  6
+CheckTetrahedralGeometry Off
+SI1   0.33420  0.87580  0.86300
+SI2   0.65220  0.87700  0.52790
+SI3   0.88390  0.52790  0.92230
+SI4   0.14530  0.87350  0.65480
+SI5   0.97440  0.12560  0.81860
+SI6   0.23250  0.47080  0.75800
+End

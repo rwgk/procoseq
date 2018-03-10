@@ -1,0 +1,12 @@
+Title Code DOH
+SpaceGroup P6/mmm
+UnitCell 14.19 14.19 11.499 90 90 120
+MinNodeDistance 2.7
+MinSymNodes 34
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.41740  0.20870  0.22460
+SI2   0.38810  0.00000  0.36290
+SI3   0.26090  0.13045  0.00000
+SI4   0.33333  0.66667  0.13980
+End

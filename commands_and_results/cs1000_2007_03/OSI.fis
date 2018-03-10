@@ -1,0 +1,11 @@
+Title Code OSI
+SpaceGroup I4/mmm
+UnitCell 18.506 18.506 5.268 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 32
+NodeType  4  3
+CheckTetrahedralGeometry Off
+SI1   0.27260  0.15850  0.50000
+SI2   0.12090  0.00000  0.00000
+SI3   0.22040  0.00000  0.50000
+End

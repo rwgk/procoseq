@@ -1,0 +1,13 @@
+Title Code PAR
+SpaceGroup C12/c1
+UnitCell 20.85 9.165 8.599 90 89.66 90
+MinNodeDistance 2.7
+MinSymNodes 32
+NodeType  3  1
+NodeType  4  3
+CheckTetrahedralGeometry Off
+SI1   0.06870  0.17140  0.30350
+SI2   0.24280  0.03220  0.44870
+SI3   0.19960  0.30680  0.27780
+SI4   0.11850  0.09690  0.61990
+End

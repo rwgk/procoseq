@@ -1,0 +1,12 @@
+Title Code MEI
+SpaceGroup P63/m
+UnitCell 13.114 13.114 15.563 90 90 120
+MinNodeDistance 2.7
+MinSymNodes 34
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.66960  0.14790  0.47050
+SI2   0.45190  0.11740  0.56770
+SI3   0.52650  0.21890  0.75000
+SI4   0.66667  0.33333  0.35330
+End

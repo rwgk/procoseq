@@ -1,0 +1,10 @@
+Title Code ASV
+SpaceGroup P4/mcc
+UnitCell 8.674 8.674 13.919 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 20
+NodeType  4  2
+CheckTetrahedralGeometry Off
+SI1   0.25340  0.43080  0.11140
+SI2   0.00000  0.50000  0.25000
+End

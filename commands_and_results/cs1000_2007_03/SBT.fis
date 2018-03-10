@@ -1,0 +1,12 @@
+Title Code SBT
+SpaceGroup R-3m:H
+UnitCell 17.191 17.191 41.03 90 90 120
+MinNodeDistance 2.7
+MinSymNodes 144
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.15500  0.48780  0.12940
+SI2   0.93680  0.24240  0.02910
+SI3   0.63090  0.90490  0.06910
+SI4   0.84410  0.51200  0.99190
+End

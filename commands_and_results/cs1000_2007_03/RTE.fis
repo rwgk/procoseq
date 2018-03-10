@@ -1,0 +1,11 @@
+Title Code RTE
+SpaceGroup C12/m1
+UnitCell 14.098 13.67 7.431 90 102.421 90
+MinNodeDistance 2.7
+MinSymNodes 24
+NodeType  4  3
+CheckTetrahedralGeometry Off
+SI1   0.60010  0.11240  0.44710
+SI2   0.72610  0.11220  0.84370
+SI3   0.61070  0.22510  0.07970
+End

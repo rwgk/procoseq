@@ -1,0 +1,11 @@
+Title Code MSO
+SpaceGroup R-3m:H
+UnitCell 17.165 17.165 19.785 90 90 120
+MinNodeDistance 2.7
+MinSymNodes 90
+NodeType  4  3
+CheckTetrahedralGeometry Off
+SI1   0.99950  0.18110  0.26740
+SI2   0.00020  0.17910  0.11170
+SI3   0.00000  0.30560  0.00000
+End

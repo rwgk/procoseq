@@ -1,0 +1,11 @@
+Title Code AEI
+SpaceGroup Cmcm
+UnitCell 13.677 12.607 18.497 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 48
+NodeType  4  3
+CheckTetrahedralGeometry Off
+SI1   0.11260  0.03690  0.16640
+SI2   0.11280  0.77120  0.93940
+SI3   0.77330  0.90420  0.05210
+End

@@ -1,0 +1,11 @@
+Title Code AWO
+SpaceGroup Cmca
+UnitCell 9.101 15.035 19.241 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 48
+NodeType  4  3
+CheckTetrahedralGeometry Off
+SI1   0.17600  0.85670  0.32150
+SI2   0.17060  0.99730  0.08270
+SI3   0.32480  0.15580  0.32080
+End

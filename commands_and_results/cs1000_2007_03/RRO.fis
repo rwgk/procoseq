@@ -1,0 +1,13 @@
+Title Code RRO
+SpaceGroup P12/c1
+UnitCell 7.4122 8.6412 17.18 90 113.68 90
+MinNodeDistance 2.7
+MinSymNodes 18
+NodeType  4  5
+CheckTetrahedralGeometry Off
+SI1   0.93480  0.82160  0.99400
+SI2   0.68190  0.39550  0.94150
+SI3   0.29340  0.65400  0.67680
+SI4   0.27690  0.34950  0.91700
+SI5   0.00000  0.46980  0.25000
+End

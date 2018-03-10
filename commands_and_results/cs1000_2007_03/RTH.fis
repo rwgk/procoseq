@@ -1,0 +1,12 @@
+Title Code RTH
+SpaceGroup C12/m1
+UnitCell 9.762 20.53 9.996 90 96.897 90
+MinNodeDistance 2.7
+MinSymNodes 32
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.00660  0.31830  0.34360
+SI2   0.41570  0.07660  0.12140
+SI3   0.25710  0.26730  0.21650
+SI4   0.15890  0.15140  0.02120
+End

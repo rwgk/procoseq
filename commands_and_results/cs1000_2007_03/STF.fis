@@ -1,0 +1,13 @@
+Title Code STF
+SpaceGroup C12/m1
+UnitCell 14.104 18.205 7.477 90 98.989 90
+MinNodeDistance 2.7
+MinSymNodes 32
+NodeType  4  5
+CheckTetrahedralGeometry Off
+SI1   0.39850  0.84130  0.06270
+SI2   0.39180  0.74660  0.42290
+SI3   0.28640  0.84200  0.69170
+SI4   0.64000  0.00000  0.39540
+SI5   0.58380  0.00000  0.77540
+End

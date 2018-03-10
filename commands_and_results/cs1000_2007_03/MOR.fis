@@ -1,0 +1,12 @@
+Title Code MOR
+SpaceGroup Cmcm
+UnitCell 18.256 20.534 7.542 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 48
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.30570  0.07360  0.04350
+SI2   0.30280  0.31050  0.04370
+SI3   0.08480  0.37910  0.25000
+SI4   0.08480  0.22270  0.25000
+End

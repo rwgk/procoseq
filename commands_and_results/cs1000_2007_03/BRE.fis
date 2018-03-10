@@ -1,0 +1,12 @@
+Title Code BRE
+SpaceGroup P121/m1
+UnitCell 6.76 17.093 7.603 90 95.827 90
+MinNodeDistance 2.7
+MinSymNodes 16
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.33360  0.08680  0.82090
+SI2   0.39970  0.05420  0.21500
+SI3   0.55270  0.15890  0.53330
+SI4   0.91550  0.05350  0.64930
+End

@@ -1,0 +1,11 @@
+Title Code ATS
+SpaceGroup Cmcm
+UnitCell 13.164 21.584 5.257 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 24
+NodeType  4  3
+CheckTetrahedralGeometry Off
+SI1   0.61750  0.04050  0.75000
+SI2   0.30790  0.17570  0.75000
+SI3   0.61590  0.24280  0.25000
+End

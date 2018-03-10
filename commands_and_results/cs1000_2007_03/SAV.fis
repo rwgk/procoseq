@@ -1,0 +1,11 @@
+Title Code SAV
+SpaceGroup P4/nmm:2
+UnitCell 18.653 18.653 9.441 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 48
+NodeType  4  3
+CheckTetrahedralGeometry Off
+SI1   0.06590  0.55440  0.33720
+SI2   0.95350  0.66560  0.83950
+SI3   0.06420  0.83440  0.08630
+End

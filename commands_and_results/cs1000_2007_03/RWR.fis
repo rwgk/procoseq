@@ -1,0 +1,10 @@
+Title Code RWR
+SpaceGroup I41/amd:2
+UnitCell 7.8055 7.8055 27.3499 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 32
+NodeType  4  2
+CheckTetrahedralGeometry Off
+SI1   0.00000  0.54590  0.05720
+SI2   0.69110  0.94110  0.87500
+End

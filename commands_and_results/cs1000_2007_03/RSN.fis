@@ -1,0 +1,13 @@
+Title Code RSN
+SpaceGroup Cmmm
+UnitCell 7.1563 41.9098 7.1604 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 36
+NodeType  4  5
+CheckTetrahedralGeometry Off
+SI1   0.79290  0.06440  0.00000
+SI2   0.50000  0.03790  0.28040
+SI3   0.00000  0.18570  0.20700
+SI4   0.28060  0.21200  0.50000
+SI5   0.00000  0.12500  0.00000
+End

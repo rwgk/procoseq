@@ -1,0 +1,10 @@
+Title Code MAZ
+SpaceGroup P63/mmc
+UnitCell 18.102 18.102 7.618 90 90 120
+MinNodeDistance 2.7
+MinSymNodes 36
+NodeType  4  2
+CheckTetrahedralGeometry Off
+SI1   0.09430  0.35610  0.04870
+SI2   0.49340  0.16240  0.25000
+End

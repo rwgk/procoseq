@@ -1,0 +1,12 @@
+Title Code ETR
+SpaceGroup P63mc
+UnitCell 20.6342 20.6342 8.42608 90 90 120
+MinNodeDistance 2.7
+MinSymNodes 48
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.74570  0.10730  0.01650
+SI2   0.66680  0.18720  0.15810
+SI3   0.63960  0.97390  0.21990
+SI4   0.61370  0.07870  0.43350
+End

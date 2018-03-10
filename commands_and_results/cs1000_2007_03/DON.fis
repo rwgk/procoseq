@@ -1,0 +1,13 @@
+Title Code DON
+SpaceGroup Cmcm
+UnitCell 18.89 23.365 8.469 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 64
+NodeType  4  5
+CheckTetrahedralGeometry Off
+SI1   0.86080  0.72910  0.43280
+SI2   0.73650  0.66400  0.56500
+SI3   0.14510  0.06500  0.43810
+SI4   0.50000  0.25990  0.57070
+SI5   0.00000  0.88200  0.43380
+End

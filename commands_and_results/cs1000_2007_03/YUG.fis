@@ -1,0 +1,10 @@
+Title Code YUG
+SpaceGroup C12/m1
+UnitCell 10.248 13.788 6.782 90 111.545 90
+MinNodeDistance 2.7
+MinSymNodes 16
+NodeType  4  2
+CheckTetrahedralGeometry Off
+SI1   0.34110  0.26630  0.35380
+SI2   0.35490  0.11560  0.02140
+End

@@ -1,0 +1,11 @@
+Title Code BEC
+SpaceGroup P42/mmc
+UnitCell 12.769 12.769 12.977 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 32
+NodeType  4  3
+CheckTetrahedralGeometry Off
+SI1   0.87705  0.61795  0.61681
+SI2   0.80700  0.80700  0.25000
+SI3   0.00000  0.11920  0.12380
+End

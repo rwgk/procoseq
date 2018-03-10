@@ -1,0 +1,15 @@
+Title Code MTT
+SpaceGroup Pmmn:1
+UnitCell 5.256 22.031 11.384 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 24
+NodeType  4  7
+CheckTetrahedralGeometry Off
+SI1   0.00000  0.20830  0.98990
+SI2   0.00000  0.17330  0.72370
+SI3   0.00000  0.13280  0.22590
+SI4   0.50000  0.18640  0.35060
+SI5   0.50000  0.12800  0.59840
+SI6   0.00000  0.00000  0.30410
+SI7   0.50000  0.00000  0.46710
+End

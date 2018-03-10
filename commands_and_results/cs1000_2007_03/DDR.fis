@@ -1,0 +1,15 @@
+Title Code DDR
+SpaceGroup R-3m:H
+UnitCell 13.795 13.795 40.75 90 90 120
+MinNodeDistance 2.7
+MinSymNodes 120
+NodeType  4  7
+CheckTetrahedralGeometry Off
+SI1   0.72810  0.05390  0.06980
+SI2   0.13090  0.26180  0.10750
+SI3   0.19995  0.39990  0.17180
+SI4   0.11870  0.23740  0.23090
+SI5   0.22560  0.00000  0.00000
+SI6   0.00000  0.00000  0.19560
+SI7   0.00000  0.00000  0.11660
+End

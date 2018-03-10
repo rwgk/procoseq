@@ -1,0 +1,13 @@
+Title Code AET
+SpaceGroup Cmcm
+UnitCell 32.829 14.38 8.374 90 90 90
+MinNodeDistance 2.7
+MinSymNodes 72
+NodeType  4  5
+CheckTetrahedralGeometry Off
+SI1   0.08240  0.10640  0.55930
+SI2   0.22510  0.10230  0.56330
+SI3   0.18690  0.40380  0.56490
+SI4   0.15650  0.22990  0.06570
+SI5   0.00000  0.89350  0.55830
+End

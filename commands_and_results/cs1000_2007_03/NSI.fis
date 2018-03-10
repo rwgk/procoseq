@@ -1,0 +1,11 @@
+Title Code NSI
+SpaceGroup C12/m1
+UnitCell 14.1287 5.2535 8.9277 90 105.37 90
+MinNodeDistance 2.7
+MinSymNodes 12
+NodeType  4  3
+CheckTetrahedralGeometry Off
+SI1   0.55900  0.00000  0.18050
+SI2   0.01840  0.00000  0.68550
+SI3   0.23960  0.00000  0.89320
+End

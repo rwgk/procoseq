@@ -1,0 +1,12 @@
+Title Code SFO
+SpaceGroup C12/m1
+UnitCell 22.5853 13.5676 6.9709 90 99.016 90
+MinNodeDistance 2.7
+MinSymNodes 32
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.83440  0.20280  0.19310
+SI2   0.93110  0.88640  0.98220
+SI3   0.74280  0.88700  0.87480
+SI4   0.83880  0.11240  0.60450
+End

@@ -1,0 +1,13 @@
+Title Code USI
+SpaceGroup C12/m1
+UnitCell 21.1195 12.9714 9.6722 90 108.37 90
+MinNodeDistance 2.7
+MinSymNodes 40
+NodeType  4  5
+CheckTetrahedralGeometry Off
+SI1   0.71470  0.11900  0.10680
+SI2   0.78270  0.11450  0.62330
+SI3   0.66100  0.82500  0.34810
+SI4   0.57640  0.11870  0.53380
+SI5   0.69340  0.80640  0.79140
+End

@@ -1,0 +1,5 @@
+focus -siteframe -sitelabel -coseqsplit=20000 -coseq=500 MTF.fis > ../MTF.cs0500
+section MTF.cs0500 coseq > zs
+simple-cs-crack -v zs 20
+prodcs -MTF zs '1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,63' | rcs -reduceit > MTF.itpl
+rcs -s -v -UseLCM -iFP MTF.itpl > MTF.etd

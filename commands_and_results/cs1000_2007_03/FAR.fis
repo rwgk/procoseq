@@ -1,0 +1,12 @@
+Title Code FAR
+SpaceGroup P63/mmc
+UnitCell 12.6015 12.6015 35.7428 90 90 120
+MinNodeDistance 2.7
+MinSymNodes 84
+NodeType  4  4
+CheckTetrahedralGeometry Off
+SI1   0.66810  0.08800  0.46470
+SI2   0.24600  0.00170  0.39220
+SI3   0.58030  0.91010  0.32160
+SI4   0.24400  0.99650  0.25000
+End
