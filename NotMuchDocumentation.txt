@@ -6,7 +6,7 @@ How were they generated?
 
 Where is the focus source code?
   rwgk original version
-    TODO
+    https://github.com/rwgk/focus
   stefsmeets forked version (newer)
     https://github.com/stefsmeets/focus_package
 
